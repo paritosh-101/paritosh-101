@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently a PhD candidate at the Robert Bosch Centre for Cyber-Physical Systems, IISc Bangalore, under Dr. Punit Rathore ([webpage](https://www.punitrathore.com/)).
 - 👯 I’m looking to collaborate on projects that deploy ML models on the edge.
 - 💬 Ask me about DotA and prepare to loose at least 4 hours of your life.
-- 📫 How to reach me: paritosht@iisc.ac.in
+- 📫 How to reach me: paritosht[at]iisc.ac.in
 - 📫 LinkedIn: [link](https://www.linkedin.com/in/paritosh-tiwari-101/)
 <!-- - 🤔 I’m looking for help with ... -->
 
